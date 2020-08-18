@@ -1,3 +1,3 @@
 # eks-sample
-AWS EKS sample
+AWS EKS sample -
 Read NOTES for details
